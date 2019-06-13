@@ -15,6 +15,9 @@
 * Vyčítavanie sketchu začne automaticky
 * Výstup do flash_dump.bin
 
+# Výstup programu
+![Vystup programu](blob:https://imgur.com/0ba3a155-c652-4f5c-a292-ecf9bd27d17f)
+
 # Nahrávanie programu cez ESPTool
 ![ESPTool nahravanie](https://i.nahraj.to/f/2fCB.PNG)
 
